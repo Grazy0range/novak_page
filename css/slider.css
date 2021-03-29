@@ -1,0 +1,35 @@
+/* Slider options */
+/* Slider is start */
+/* Slider with dott */
+/* Bounding shell */
+.slick-list {
+  overflow: hidden;
+}
+
+/* Slide ribbon */
+.slick-track {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+/* Slide*/
+/* Active slide (displayed) */
+/* Main slide */
+/* Center slide */
+/* Cloned slide */
+/* Arrow */
+/* Left arrow */
+.slick-arrow.slick-prev {
+  left: 0;
+}
+
+/* Right arrow */
+.slick-arrow.slick-next {
+  right: 0;
+}
+
+/* Not active arrow */
+/* Points (shootouts) */
+/* Active point */
+/* Point element */
